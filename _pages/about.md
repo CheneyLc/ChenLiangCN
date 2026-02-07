@@ -19,7 +19,6 @@ redirect_from:
 
 # 🔋 个人简介
 我将前往**新南威尔士大学（UNSW）**攻读**数学与统计博士学位**，导师为**莫华栋教授**与**吕子扬教授**。
----
 
 我的研究领域包括：
 - **AI + 电池**：深度学习、半监督学习、统计模型
@@ -77,9 +76,9 @@ redirect_from:
 - **[J1]** B. Xia，H. Fu，Z. Qin，**C. Liang**. *Optimization of battery state of charge estimation method by correcting available capacity.* **Journal of Energy Storage**, 116 (2025) 116065. [[网页]](https://doi.org/10.1016/j.est.2025.116065)
 
 ## Submitted Papers
-- **[S3]** **C. Liang**，S. Tao，Z. Lyu，H. Mo，et al. *Patterns in an Electrical Whisper: History-Free Generative Transfer Learning for Second-Life Battery Revival.* Submitted to **Patterns**
-- **[S2]** X. Huang，S. Tao，**C. Liang**，et al. *PIMOE: Physically interpretable mixture of experts network for battery degradation trajectory prediction amid second-life complexities.* **Nature Communications**
-- **[S1]** H. Hu，S. Tao，**C. Liang**，et al. *Robust and privacy-preserving classification of retired batteries via expert-weighted federated machine learning.* Submitted to **eTransportation**
+- **[S3]** **C. Liang**，S. Tao，Z. Lyu，H. Mo，et al. *Patterns in an Electrical Whisper: History-Free Generative Transfer Learning for Second-Life Battery Revival.* Submitted
+- **[S2]** X. Huang，S. Tao，**C. Liang**，et al. *PIMOE: Physically interpretable mixture of experts network for battery degradation trajectory prediction amid second-life complexities.* 
+- **[S1]** H. Hu，S. Tao，**C. Liang**，et al. *Robust and privacy-preserving classification of retired batteries via expert-weighted federated machine learning.* Submitted
 
 
 ## 专利
