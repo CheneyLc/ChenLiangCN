@@ -9,22 +9,22 @@
 title                    : "ChenLiang 梁宸"
 description              : "AI4Batt"
 url: "https://cheneylc.github.io"
-baseurl: "/ChenLiang"
-repository: "cheneylc/ChenLiang"
+baseurl: "/ChenLiangCN"
+repository: "cheneylc/ChenLiangCN"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-PE40TGE9TB
 
 # SEO Related
-google_site_verification :  WbKH78MAAAAJ&hl # get google_site_verification from https://search.google.com/search-console/about
+# google_site_verification :  WbKH78MAAAAJ&hl # get google_site_verification from https://search.google.com/search-console/about
 # bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
 # baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "梁宸"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Chen Liang 梁宸"
+  avatar           : "images/ChenLiang.jpg"
   bio              : "新南威尔士大学"
   location         : "澳洲 悉尼"
   employer         : #"Hefei General Machinery Research Institute"
