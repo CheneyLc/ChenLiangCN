@@ -1,24 +1,25 @@
 main:
   - title: "简介"
-    url: "{{ site.baseurl }}/#about-me"
+    url: "#about-me"
 
   - title: "学历"
-    url: "{{ site.baseurl }}/#xsbj"
+    url: "#xsbj"
 
   - title: "论文专利"
-    url: "{{ site.baseurl }}/#lwzl"
+    url: "#lwzl"
 
   - title: "荣誉奖项"
-    url: "{{ site.baseurl }}/#ryjx"
+    url: "#ryjx"
 
   - title: "工作经历"
-    url: "{{ site.baseurl }}/#gzjy"
+    url: "#gzjy"
 
   - title: "科研经历"
-    url: "{{ site.baseurl }}/#kyjl"
+    url: "#kyjl"
 
   - title: "审稿"
-    url: "{{ site.baseurl }}/#sg"
-
+    url: "#sg"
+    
   - title: "技能"
-    url: "{{ site.baseurl }}/#jn"
+    url: "#jn"
+

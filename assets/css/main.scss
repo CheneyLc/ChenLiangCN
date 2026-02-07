@@ -108,19 +108,3 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* 顶部导航平均分布 */
-.masthead .greedy-nav .visible-links{
-  display: flex;
-  width: 100%;
-}
-
-.masthead .greedy-nav .visible-links > li{
-  flex: 1 1 0;
-  text-align: center;
-}
-
-/* 让 a 占满 li，点击区域更大 */
-.masthead .greedy-nav .visible-links > li > a{
-  display: block;
-  width: 100%;
-}
