@@ -12,7 +12,8 @@
           </li>
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item">
-              {% if link.url startswith "#" %}
+              {% assign first_char = link.url | slice: 0, 1 %}
+              {% if first_char == "#" %}
                 <a href="{{ link.url }}">{{ link.title }}</a>
               {% else %}
                 <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
