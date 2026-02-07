@@ -18,17 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我将前往**新南威尔士大学（UNSW）**攻读**数学与统计博士学位**，导师为**莫华栋教授**与**吕子扬教授**。
-<a href='https://scholar.google.com/citations?user=WbKH78MAAAAJ&hl=zh-CN'>
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
-- 📧 Email：cheneyliang22@163.com  
-- 📞 电话：+86 199 6652 2018  
-- 🌐 学术主页：[[Google Scholar]](https://scholar.google.com/citations?user=WbKH78MAAAAJ&hl=zh-CN) ｜ [[ResearchGate]](https://www.researchgate.net/profile/Chen-Liang-148) ｜ [[ORCID]](https://orcid.org/0009-0000-7055-2001)
-
 ---
 
 我的研究领域包括：
-- **电池 AI**（统计学习、半监督学习、缺失数据建模）
+- **AI + 电池**（统计学习、半监督学习、缺失数据建模）
 - **电池管理系统（BMS）**：SoX 估计（SoC/SoH/SoP）
 - **预测性健康管理（PHM）**：退役/梯次电池健康评估与寿命预测
 - **量子计算 + 电池**：量子模型/量子优化在电池状态估计中的应用
@@ -48,7 +41,7 @@ redirect_from:
   - **课题2：**基于物理信息的电池模型：结合 P2D 模型与 PINN（Physics-Informed Neural Networks）进行电池状态估计
 
 - *2025.07 - 2025.09*，比亚迪（BYD），电池算法工程师，深圳  
-  - 优化混动系统 **SoC 估计**（扩展卡尔曼滤波 EKF 系列算法）  
+  - 优化混动系统 **SOC 估计**（扩展卡尔曼滤波 EKF 系列算法）  
   - 参与云端电池健康监测平台研发与电池测试（整车/道路测试）
 
 <span class='anchor' id='-kyxm'></span>
@@ -76,7 +69,7 @@ redirect_from:
 - **[J6]** **C. Liang**，S. Tao，et al. *Stochastic state of health estimation for lithium-ion batteries with automated feature fusion using quantum convolutional neural network.* **Journal of Energy Chemistry**, 106 (2025) 205–219.  
 [[网页]](https://doi.org/10.1016/j.jechem.2025.02.030)
 
-</div></div>
+<!-- </div></div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Energy Storage 2024</div><img src='images/jes2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,7 +77,7 @@ redirect_from:
 - **[J5]** **C. Liang**，B. Xia，et al. *A Quantum Particle Swarm Optimization Extended Kalman Quantum Particle Filter approach on state of charge estimation for lithium-ion battery.* **Journal of Energy Storage**, 100 (2024) 113677.  
 [[网页]](https://doi.org/10.1016/j.est.2024.113677)
 
-</div></div>
+<!-- </div></div> -->
 
 - **[J4]** X. Huang，**C. Liang**，S. Tao，et al. *IC2ML: Unified battery state-of-health, degradation trajectory and remaining useful life prediction via intra- and inter-cycle enhanced machine learning.* **Journal of Power Sources**（已接收）
 
@@ -116,7 +109,7 @@ redirect_from:
 
 <span class='anchor' id='-fw'></span>
 
-# 🧑‍🏫 学术服务与教学
+# 🧑‍🏫 审稿
 - **审稿人（Reviewer）**：Nature Communications（ECR），Journal of Energy Storage，Journal of Energy Chemistry，Measurement
 
 <span class='anchor' id='-jn'></span>
