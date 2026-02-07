@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🔋 个人简介
 我将前往**新南威尔士大学（UNSW）**攻读**数学与统计博士学位**，导师为**莫华栋教授**与**吕子扬教授**。
 ---
 
