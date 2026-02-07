@@ -26,7 +26,7 @@ redirect_from:
 - **预测性健康管理（PHM）**：梯次利用电池健康评估与寿命预测
 - **量子计算 + 电池**：量子模型/量子优化在电池中的应用
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-xsbj'></span>
 
 # 🎓 学术背景
 - *2022.09 - 2025.07*，清华大学，机械工程 硕士，导师：夏必忠 副教授
@@ -43,7 +43,7 @@ redirect_from:
   - 优化混动系统 **SOC 估计**（扩展卡尔曼滤波 EKF 系列算法）  
   - 参与云端电池健康监测平台研发与电池测试
 
-<span class='anchor' id='-kyxm'></span>
+<span class='anchor' id='-kyjl'></span>
 
 # 🔬 科研经历
 - *2025.10 - 至今*，科研助理，**Revolutionary AI-Enabled Modular Power Portal System for Urban Clean Energy Distribution**  
@@ -61,25 +61,19 @@ redirect_from:
 
 ## Journal Papers
 ---
-- **[J7]** **C. Liang**，S. Tao，et al. *Stochastic state of health estimation for lithium-ion batteries with automated feature fusion using quantum convolutional neural network.* **Journal of Energy Chemistry**, 106 (2025) 205–219.  
-[[网页]](https://doi.org/10.1016/j.jechem.2025.02.030)
+- **[J7]** **C. Liang**，S. Tao，et al. *Stochastic state of health estimation for lithium-ion batteries with automated feature fusion using quantum convolutional neural network.* **Journal of Energy Chemistry**, 106 (2025) 205–219. [[网页]](https://doi.org/10.1016/j.jechem.2025.02.030)
 
-- **[J6]** **C. Liang**，B. Xia，et al. *A Quantum Particle Swarm Optimization Extended Kalman Quantum Particle Filter approach on state of charge estimation for lithium-ion battery.* **Journal of Energy Storage**, 100 (2024) 113677.  
-[[网页]](https://doi.org/10.1016/j.est.2024.113677)
+- **[J6]** **C. Liang**，B. Xia，et al. *A Quantum Particle Swarm Optimization Extended Kalman Quantum Particle Filter approach on state of charge estimation for lithium-ion battery.* **Journal of Energy Storage**, 100 (2024) 113677. [[网页]](https://doi.org/10.1016/j.est.2024.113677)
 
-- **[J5]** X. Huang，**C. Liang**，S. Tao，et al. *IC2ML: Unified battery state-of-health, degradation trajectory and remaining useful life prediction via intra- and inter-cycle enhanced machine learning.* **Journal of Power Sources**, (2026) 239148.
-[[网页]](https://doi.org/10.1016/j.jpowsour.2025.239148)
+- **[J5]** X. Huang，**C. Liang**，S. Tao，et al. *IC2ML: Unified battery state-of-health, degradation trajectory and remaining useful life prediction via intra- and inter-cycle enhanced machine learning.* **Journal of Power Sources**, (2026) 239148. [[网页]](https://doi.org/10.1016/j.jpowsour.2025.239148)
 
-- **[J4]** X. Huang，S. Tao，**C. Liang**，et al. *Robust and generalizable lithium-ion battery health estimation using multi-scale field data decomposition and fusion.* **Journal of Power Sources**, (2025) 236939.  
-[[网页]](https://doi.org/10.1016/j.jpowsour.2025.236939)
+- **[J4]** X. Huang，S. Tao，**C. Liang**，et al. *Robust and generalizable lithium-ion battery health estimation using multi-scale field data decomposition and fusion.* **Journal of Power Sources**, (2025) 236939. [[网页]](https://doi.org/10.1016/j.jpowsour.2025.236939)
 
 - **[S3]** H. Hu，**C. Liang**，X. Huang，H. Mo，S. Tao，et al. *ONET: Operator network for randomized and robust battery health estimation using operation condition and cycling data matching.* **Journal of Power Sources** (Accepted)
 
-- **[J2]** S. Yue，B. Xia，**C. Liang**，et al. *Temperature-considered active balancing strategy for lithium-ion battery packs with surrogate optimization algorithm.* **Journal of Energy Storage**, 108 (2025) 115073.  
-[[网页]](https://doi.org/10.1016/j.est.2024.115073)
+- **[J2]** S. Yue，B. Xia，**C. Liang**，et al. *Temperature-considered active balancing strategy for lithium-ion battery packs with surrogate optimization algorithm.* **Journal of Energy Storage**, 108 (2025) 115073. [[网页]](https://doi.org/10.1016/j.est.2024.115073)
 
-- **[J1]** B. Xia，H. Fu，Z. Qin，**C. Liang**. *Optimization of battery state of charge estimation method by correcting available capacity.* **Journal of Energy Storage**, 116 (2025) 116065.  
-[[网页]](https://doi.org/10.1016/j.est.2025.116065)
+- **[J1]** B. Xia，H. Fu，Z. Qin，**C. Liang**. *Optimization of battery state of charge estimation method by correcting available capacity.* **Journal of Energy Storage**, 116 (2025) 116065. [[网页]](https://doi.org/10.1016/j.est.2025.116065)
 
 ## Submitted Papers
 - **[S3]** **C. Liang**，S. Tao，Z. Lyu，H. Mo，et al. *Patterns in an Electrical Whisper: History-Free Generative Transfer Learning for Second-Life Battery Revival.* Submitted to **Patterns**
@@ -88,10 +82,8 @@ redirect_from:
 
 
 ## 专利
-- **[P2]** 一种大型运输车辆测距防护装置（CN202110693693.7）  
-[[网页]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIxMTA2OTM2OTMuN19DTjExMzMzNTE4OEJfMjAyNTAzMTQaCG1naXlud2Nx)
-- **[P1]** 一种减震防跌倒拐杖 (CN202310276661.6)
-[[网页]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIzMTAyNzY2NjEuNl9DTjExNjI3MDE1M0JfMjAyNTA5MTYaCGJodmJ6a2Jl)
+- **[P2]** 一种大型运输车辆测距防护装置（CN202110693693.7） [[网页]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIxMTA2OTM2OTMuN19DTjExMzMzNTE4OEJfMjAyNTAzMTQaCG1naXlud2Nx)
+- **[P1]** 一种减震防跌倒拐杖 (CN202310276661.6) [[网页]](https://d.wanfangdata.com.cn/patent/Ch1QYXRlbnROZXdTb2xyOVMyMDI2MDEyNzE1NTEzORIpWkxfQ04yMDIzMTAyNzY2NjEuNl9DTjExNjI3MDE1M0JfMjAyNTA5MTYaCGJodmJ6a2Jl)
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -101,7 +93,7 @@ redirect_from:
 - *2019.12* 合肥工业大学拓普集团NVH奖学金
 - *2019.12* 合肥工业大学二等奖学金
 
-<span class='anchor' id='-fw'></span>
+<span class='anchor' id='-sg'></span>
 
 # 🧑‍🏫 审稿
 - Nature Communications（ECR），Journal of Energy Storage，Journal of Energy Chemistry，Measurement，IEEE TTE
